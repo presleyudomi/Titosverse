@@ -82,6 +82,20 @@ export default function Home() {
 </section>
 
 
+<section className="shop-categories">
+  <div className="category-panel">
+    <p>THE COLLECTION</p>
+    <h2>For Him</h2>
+    <a href="#products">SHOP MEN ↗</a>
+  </div>
+
+  <div className="category-panel">
+    <p>THE COLLECTION</p>
+    <h2>For Her</h2>
+    <a href="#products">SHOP WOMEN ↗</a>
+  </div>
+</section>
+
 
       <section id="products">
   <h2>Our Collection</h2>
