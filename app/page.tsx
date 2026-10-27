@@ -60,7 +60,6 @@ export default function Home() {
 <section className="hero">
   <div className="hero-content">
    <p className="hero-label">WELCOME TO TITOSVERSE</p>
-
 <h2>
   Find your style.
   <br />
